@@ -31,8 +31,10 @@ Whether you are looking for enterprise-grade **managed Prometheus**, high-cardin
 - [🔓 Open-Source GitHub Projects (Sorted by Stars)](#-open-source-github-projects-sorted-by-stars)
   - [🔥 Top Open-Source Observability & Metrics Repositories](#-top-open-source-observability--metrics-repositories)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Technical & Operational Disclaimers](#️-technical--operational-disclaimers)
 - [📜 License](#-license)
+- [⭐ Star History](#-star-history)
 
 ---
 
@@ -69,7 +71,7 @@ The following curated open-source projects form the backbone of self-hosted clou
 
 ### 🔥 Top Open-Source Observability & Metrics Repositories
 
-1. **[Netdata](https://github.netdata.cloud/)** — [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) ⚡  
+1. **[Netdata](https://github.netdata.cloud/)** — [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.netdata/netdata/stargazers) ⚡  
    *Real-time performance and health monitoring system with per-second granularity, auto-discovery, and zero-configuration dashboards. Best for real-time edge and server monitoring.*
 
 2. **[Grafana](https://grafana.com)** — [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊  
@@ -170,6 +172,17 @@ Contributions are highly welcome! Please follow these simple steps:
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for exploring this curated guide! If you find this resource helpful for your infrastructure monitoring setup or research, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your appreciation and help others discover it.
+- 🔀 **Fork** it to contribute additions or customize it for your team.
+- 📢 **Share** it with fellow SREs, DevOps engineers, and platform developers.
+- ☕ **Sponsor / Buy me a coffee**: If you'd like to support ongoing updates and open-source maintenance, check out the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚠️ Technical & Operational Disclaimers
 
 - 📌 **Cardinality Management**: Metric series cardinality is the single primary cause of Prometheus performance degradation. Always implement relabeling rules and recording rules before sending high-cardinality label sets.
@@ -181,6 +194,12 @@ Contributions are highly welcome! Please follow these simple steps:
 ## 📜 License
 
 Distributed under the **Apache-2.0 License**. See `LICENSE` for more information.
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Managed-Monitoring-Metrics-Prometheus&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Managed-Monitoring-Metrics-Prometheus&type=date&legend=top-left)
 
 ---
 
