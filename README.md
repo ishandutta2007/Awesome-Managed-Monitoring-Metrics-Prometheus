@@ -67,74 +67,74 @@ Below is the comparative analysis of commercial managed Prometheus and cloud obs
 
 The following curated open-source projects form the backbone of self-hosted cloud monitoring, metric collection, TSDB storage, and alerting.
 
-> 🌟 **Sorted by GitHub Star Count (Descending)**
+> 🌟 **Sorted by GitHub Stars_Count (Descending)**
 
 ### 🔥 Top Open-Source Observability & Metrics Repositories
 
-1. **[Netdata](https://github.netdata.cloud/)** — [![GitHub stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.netdata/netdata/stargazers) ⚡  
+1. **[Netdata](https://github.netdata.cloud/)** — [![GitHub_Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.netdata/netdata/stargazers) ⚡  
    *Real-time performance and health monitoring system with per-second granularity, auto-discovery, and zero-configuration dashboards. Best for real-time edge and server monitoring.*
 
-2. **[Grafana](https://grafana.com)** — [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊  
+2. **[Grafana](https://grafana.com)** — [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊  
    *The standard open-source visualization and dashboard platform connecting 100+ telemetry data sources including Prometheus, Loki, and Tempo.*
 
-3. **[Apache Superset](https://superset.apache.org)** — [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) 📈  
+3. **[Apache Superset](https://superset.apache.org)** — [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) 📈  
    *Enterprise-grade business intelligence and data visualization web application featuring SQL Lab, rich chart builders, and scalable security.*
 
-4. **[Prometheus](https://prometheus.io)** — [![GitHub stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers) 🔥  
+4. **[Prometheus](https://prometheus.io)** — [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/prometheus?style=social&color=white)](https://github.com/prometheus/prometheus/stargazers) 🔥  
    *The CNCF graduated de facto standard pull-based metric monitoring system featuring PromQL query language, dimensional data model, and Alertmanager integration.*
 
-5. **[InfluxDB](https://www.influxdata.com)** — [![GitHub stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers) ⏱️  
+5. **[InfluxDB](https://www.influxdata.com)** — [![GitHub_Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social&color=white)](https://github.com/influxdata/influxdb/stargazers) ⏱️  
    *High-performance open-source time-series database designed for handling high-volume write and query workloads for metrics, IoT, and analytics.*
 
-6. **[TimescaleDB](https://www.timescale.com)** — [![GitHub stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers) 🐯  
+6. **[TimescaleDB](https://www.timescale.com)** — [![GitHub_Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers) 🐯  
    *An open-source time-series SQL database built as an extension on top of PostgreSQL, combining relational capabilities with automatic time-based partitioning.*
 
-7. **[cAdvisor](https://github.com/google/cadvisor)** — [![GitHub stars](https://img.shields.io/github/stars/google/cadvisor?style=social&color=white)](https://github.com/google/cadvisor/stargazers) 🐳  
+7. **[cAdvisor](https://github.com/google/cadvisor)** — [![GitHub_Stars](https://img.shields.io/github/stars/google/cadvisor?style=social&color=white)](https://github.com/google/cadvisor/stargazers) 🐳  
    *Container Resource Advisor by Google providing container users an understanding of the resource usage and performance characteristics of running containers.*
 
-8. **[VictoriaMetrics](https://victoriametrics.com)** — [![GitHub stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 🚀  
+8. **[VictoriaMetrics](https://victoriametrics.com)** — [![GitHub_Stars](https://img.shields.io/github/stars/VictoriaMetrics/VictoriaMetrics?style=social&color=white)](https://github.com/VictoriaMetrics/VictoriaMetrics/stargazers) 🚀  
    *Fast, cost-effective, and scalable open-source time-series database and Prometheus monitoring solution featuring superior compression and MetricsQL support.*
 
-9. **[Thanos](https://thanos.io)** — [![GitHub stars](https://img.shields.io/github/stars/thanos-io/thanos?style=social&color=white)](https://github.com/thanos-io/thanos/stargazers) 🌌  
+9. **[Thanos](https://thanos.io)** — [![GitHub_Stars](https://img.shields.io/github/stars/thanos-io/thanos?style=social&color=white)](https://github.com/thanos-io/thanos/stargazers) 🌌  
    *CNCF graduated open-source project providing highly available Prometheus setups with unlimited metric retention over cloud object storage and unified global PromQL query view.*
 
-10. **[node_exporter](https://prometheus.io)** — [![GitHub stars](https://img.shields.io/github/stars/prometheus/node_exporter?style=social&color=white)](https://github.com/prometheus/node_exporter/stargazers) 💻  
+10. **[node_exporter](https://prometheus.io)** — [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/node_exporter?style=social&color=white)](https://github.com/prometheus/node_exporter/stargazers) 💻  
     *Prometheus exporter for hardware and OS metrics exposed by UNIX/Linux kernels, providing foundational machine-level telemetry.*
 
-11. **[Prometheus Operator](https://prometheus-operator.dev)** — [![GitHub stars](https://img.shields.io/github/stars/prometheus-operator/prometheus-operator?style=social&color=white)](https://github.com/prometheus-operator/prometheus-operator/stargazers) ⚙️  
+11. **[Prometheus Operator](https://prometheus-operator.dev)** — [![GitHub_Stars](https://img.shields.io/github/stars/prometheus-operator/prometheus-operator?style=social&color=white)](https://github.com/prometheus-operator/prometheus-operator/stargazers) ⚙️  
     *Kubernetes Custom Resource Definitions (CRDs) simplifying the deployment, management, and configuration of Prometheus, Alertmanager, and Grafana instances on Kubernetes.*
 
-12. **[Alertmanager](https://prometheus.io)** — [![GitHub stars](https://img.shields.io/github/stars/prometheus/alertmanager?style=social&color=white)](https://github.com/prometheus/alertmanager/stargazers) 🔔  
+12. **[Alertmanager](https://prometheus.io)** — [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/alertmanager?style=social&color=white)](https://github.com/prometheus/alertmanager/stargazers) 🔔  
     *Handles alerts sent by Prometheus server, providing deduplication, grouping, silence rules, and routing to Slack, PagerDuty, email, and webhooks.*
 
-13. **[OpenTelemetry Collector](https://opentelemetry.io)** — [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers) 📡  
+13. **[OpenTelemetry Collector](https://opentelemetry.io)** — [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers) 📡  
     *Vendor-agnostic proxy receiver, processor, and exporter for metrics, traces, and logs under the CNCF OpenTelemetry standard.*
 
-14. **[Zabbix](https://www.zabbix.com)** — [![GitHub stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers) 🛡️  
+14. **[Zabbix](https://www.zabbix.com)** — [![GitHub_Stars](https://img.shields.io/github/stars/zabbix/zabbix?style=social&color=white)](https://github.com/zabbix/zabbix/stargazers) 🛡️  
     *Enterprise-class open-source distributed monitoring platform for networks, servers, virtual machines, and cloud services.*
 
-15. **[Blackbox Exporter](https://prometheus.io)** — [![GitHub stars](https://img.shields.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers) 🎯  
+15. **[Blackbox Exporter](https://prometheus.io)** — [![GitHub_Stars](https://img.shields.io/github/stars/prometheus/blackbox_exporter?style=social&color=white)](https://github.com/prometheus/blackbox_exporter/stargazers) 🎯  
     *Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, and ICMP, exporting synthetic uptime metrics to Prometheus.*
 
-16. **[Cortex](https://cortexmetrics.io)** — [![GitHub stars](https://img.shields.io/github/stars/cortexproject/cortex?style=social&color=white)](https://github.com/cortexproject/cortex/stargazers) 🏛️  
+16. **[Cortex](https://cortexmetrics.io)** — [![GitHub_Stars](https://img.shields.io/github/stars/cortexproject/cortex?style=social&color=white)](https://github.com/cortexproject/cortex/stargazers) 🏛️  
     *CNCF incubator project offering horizontally scalable, multi-tenant, long-term storage for Prometheus.*
 
-17. **[Grafana Mimir](https://grafana.com/oss/mimir/)** — [![GitHub stars](https://img.shields.io/github/stars/grafana/mimir?style=social&color=white)](https://github.com/grafana/mimir/stargazers) 🏛️  
+17. **[Grafana Mimir](https://grafana.com/oss/mimir/)** — [![GitHub_Stars](https://img.shields.io/github/stars/grafana/mimir?style=social&color=white)](https://github.com/grafana/mimir/stargazers) 🏛️  
     *The most scalable open-source long-term storage for Prometheus metrics, engineered for multi-tenancy, massive concurrency, and enterprise reliability.*
 
-18. **[Grafana OnCall](https://grafana.com/oss/oncall/)** — [![GitHub stars](https://img.shields.io/github/stars/grafana/oncall?style=social&color=white)](https://github.com/grafana/oncall/stargazers) 📟  
+18. **[Grafana OnCall](https://grafana.com/oss/oncall/)** — [![GitHub_Stars](https://img.shields.io/github/stars/grafana/oncall?style=social&color=white)](https://github.com/grafana/oncall/stargazers) 📟  
     *Developer-friendly incident response and on-call schedule management platform with deep Slack, Telegram, and Grafana integration.*
 
-19. **[Grafana Alloy](https://grafana.com/docs/alloy/latest/)** — [![GitHub stars](https://img.shields.io/github/stars/grafana/alloy?style=social&color=white)](https://github.com/grafana/alloy/stargazers) 🔌  
+19. **[Grafana Alloy](https://grafana.com/docs/alloy/latest/)** — [![GitHub_Stars](https://img.shields.io/github/stars/grafana/alloy?style=social&color=white)](https://github.com/grafana/alloy/stargazers) 🔌  
     *OpenTelemetry Collector distribution fully compatible with Prometheus, OpenTelemetry, and Grafana observability pipelines.*
 
-20. **[Karma](https://github.com/prymitive/karma)** — [![GitHub stars](https://img.shields.io/github/stars/prymitive/karma?style=social&color=white)](https://github.com/prymitive/karma/stargazers) 🎛️  
+20. **[Karma](https://github.com/prymitive/karma)** — [![GitHub_Stars](https://img.shields.io/github/stars/prymitive/karma?style=social&color=white)](https://github.com/prymitive/karma/stargazers) 🎛️  
     *Alert dashboard for Prometheus Alertmanager, aggregating alerts across multi-cluster environments with powerful filtering capabilities.*
 
-21. **[Perses](https://perses.dev)** — [![GitHub stars](https://img.shields.io/github/stars/perses/perses?style=social&color=white)](https://github.com/perses/perses/stargazers) 🎨  
+21. **[Perses](https://perses.dev)** — [![GitHub_Stars](https://img.shields.io/github/stars/perses/perses?style=social&color=white)](https://github.com/perses/perses/stargazers) 🎨  
     *CNCF sandbox dashboard-as-code visualization platform engineered to provide a open standard alternative to proprietary dashboard definitions.*
 
-22. **[Checkmk](https://checkmk.com)** — [![GitHub stars](https://img.shields.io/github/stars/Checkmk/checkmk?style=social&color=white)](https://github.com/Checkmk/checkmk/stargazers) ⚙️  
+22. **[Checkmk](https://checkmk.com)** — [![GitHub_Stars](https://img.shields.io/github/stars/Checkmk/checkmk?style=social&color=white)](https://github.com/Checkmk/checkmk/stargazers) ⚙️  
     *Comprehensive IT monitoring platform offering automated service discovery and extensive infrastructure exporter plugins.*
 
 ---
@@ -167,7 +167,7 @@ Contributions are highly welcome! Please follow these simple steps:
 
 1. **Fork** this repository.
 2. Add your SaaS or Open-Source project entry in **`README.md`** maintaining alphabetical or metric-based sorting.
-3. Include factual data: official documentation link, starting price, free tier limit, and exact star count.
+3. Include factual data: official documentation link, starting price, free tier limit, and exact Stars_Count.
 4. Submit a **Pull Request (PR)** with a concise overview of the addition.
 
 ---
